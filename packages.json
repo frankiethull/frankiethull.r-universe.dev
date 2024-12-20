@@ -10,5 +10,17 @@
   {
     "package": "alertr",
     "url": "https://github.com/frankiethull/alertr"
+  },
+  {
+    "package": "kantime",
+    "url": "https://github.com/frankiethull/kantime"
+  },
+  {
+    "package": "kuzco",
+    "url": "https://github.com/frankiethull/kuzco"
+  },
+  {
+    "package": "ggpal2",
+    "url": "https://github.com/frankiethull/ggpal2"
   }
 ]
